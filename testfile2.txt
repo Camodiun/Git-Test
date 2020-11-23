@@ -1,3 +1,0 @@
-yo, this is the second test file. so far only 1 line per file.
-
-this is the second line, added as part of the new 'branch' called 'test branch 1'
