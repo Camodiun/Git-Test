@@ -1,7 +1,3 @@
 aye aye, and this is the 3rd test file. still only 1 line each.
 
-<<<<<<< HEAD
-this line is being added to see what happens on branch merge - MAIN
-=======
-this line is being added to check which file changes will take precedence when merging - TESTBRANCH1
->>>>>>> testbranch1
+NEW TEST
