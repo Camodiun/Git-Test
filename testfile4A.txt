@@ -1,0 +1,1 @@
+this is a branch new file in testbranch2, to see what happens when switching branches without first committing if a new file is present
